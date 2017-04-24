@@ -141,22 +141,6 @@ $ ./pagerank_launcher.sh
     * each line as: <node #>,<node name>,(<node url>)\tPagerank[node]
 
 
-## Performance
-
-
-## Results
-Here is the top 20 highest pageranks returned after convergence on movie dataset:
-```
-
-```
-
-## Version
-**(current verions) Version 1.0**
-
-**(future version) Version 1.1**
-- will include pagerank_laucher.py & pagerank_mapper0.py
-
-
 ## Contact
 * e-mail: guillaume.attard@gmail.com
 * Twitter: [@guillaumeattard](https://twitter.com/guillaumeattard)
