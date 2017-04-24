@@ -1,0 +1,4 @@
+0.Hollywood.com - Your entertainment source for movies, movie showtimes, movie reviews, celebrities, gossip and celebrity news. (http://www.hollywood.com)	0.360413
+1.The Internet Movie Database (IMDb). (http://www.imdb.com)	0.194793
+2.Digital City: Main - Make It Your Town (SM) (http://www.digitalcity.com)	0.194793
+3.Movies.com: Your guide to new movies online with trailers, news, showtimes, tickets and movie reviews (http://movies.go.com)	0.037500
